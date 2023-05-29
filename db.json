@@ -2,6 +2,7 @@
     "Asia": [
         {
             "id": 1,
+            "region": "Asia",
             "category": "Explorer",
             "title": "Glimpse Of Indochina In 15 Days - Vietnam / Cambodia / Thailand / Laos",
             "reviews": 45,
@@ -52,6 +53,7 @@
         },
         {
             "id": 2,
+            "region": "Asia",
             "category": "Active Adventure",
             "title": "Taj Mahal and Wildlife with Royal Stay at Castles",
             "reviews": 308,
@@ -77,8 +79,8 @@
             "price_per_day": 5455,
             "str_price": 120012,
             "act_price": 60006,
-            "save_price": 0,
-            "addional_price": 60006,
+            "save_price": 60006,
+            "addional_price": 0,
             "off": 50,
             "main_image": "https://cdn.tourradar.com/s3/tour/1500x800/91447_5e2041671bb0d.jpg",
             "tour_id": 91447,
@@ -105,6 +107,7 @@
         },
         {
             "id": 3,
+            "region": "Asia",
             "category": "Active Adventure",
             "title": "Everest Base Camp (13 Nights 14 Days) Trek",
             "reviews": 20,
@@ -158,6 +161,7 @@
         },
         {
             "id": 4,
+            "region": "Asia",
             "category": "Active Adventure",
             "title": "Mardi Himal (Off The Beaten) Trek",
             "reviews": 36,
@@ -208,6 +212,7 @@
         },
         {
             "id": 5,
+            "region": "Asia",
             "category": "Explorer",
             "title": "Explore Nepal Tour 11 Days (Hill Stations Beach Jungle Safari and Sunrise view Tour)",
             "reviews": 46,
@@ -260,6 +265,7 @@
         },
         {
             "id": 6,
+            "region": "Asia",
             "category": "In-depth Cultural",
             "title": "Vietnam - 12 Days. Departure every Saturday from Hanoi",
             "reviews": 12,
@@ -312,6 +318,7 @@
         },
         {
             "id": 7,
+            "region": "Asia",
             "category": "In-depth Cultural",
             "title": "Fantastic Circle of Thailand Tour - 10 Days",
             "reviews": 22,
@@ -363,6 +370,7 @@
         },
         {
             "id": 8,
+            "region": "Asia",
             "category": "In-depth Cultural",
             "title": "Discovering Southeast Asia Cultural Riches & Seaside Charms 19-Day",
             "reviews": 11,
@@ -412,6 +420,7 @@
         },
         {
             "id": 9,
+            "region": "Asia",
             "category": "Explorer",
             "title": "India's Top Selling Golden Triangle India Tour w/ Meals and Sunrise Taj Mahal",
             "reviews": 246,
@@ -462,6 +471,7 @@
         },
         {
             "id": 10,
+            "region": "Asia",
             "category": "Hiking & Trekking",
             "title": "Adventure Vacation In 12 Days - Private tour",
             "reviews": 16,
@@ -513,6 +523,7 @@
         },
         {
             "id": 11,
+            "region": "Asia",
             "category": "In-depth Cultural",
             "title": "Endless Beauty of Thailand 10-Day",
             "reviews": 36,
@@ -563,6 +574,7 @@
         },
         {
             "id": 12,
+            "region": "Asia",
             "category": "River Cruise",
             "title": "Mekong Delta Odyssey: From Siem Reap to Hanoi 14-Day",
             "reviews": 17,
@@ -614,6 +626,7 @@
         },
         {
             "id": 13,
+            "region": "Asia",
             "category": "Hiking & Trekking",
             "title": "Pu Luong Nature Reserve Discovery In 8 Days - Luxury Private Tour",
             "reviews": 46,
@@ -639,11 +652,11 @@
             "save_price": 108028,
             "addional_price": 15212,
             "off": 55,
-            "main_image": "https://cdn.tourradar.com/s3/tour/1500x800/142637_63f2e0e4e8546.jpg",
+            "main_image": "https://cdn.tourradar.com/s3/tour/1500x800/142637_41bc7c16.jpg",
             "tour_id": 142637,
             "group_size": 15,
             "top_crousel_img": [
-                "https://cdn.tourradar.com/s3/tour/1500x800/142637_63f2e0e4e8546.jpg",
+                "https://cdn.tourradar.com/s3/tour/1500x800/142637_41bc7c16.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/142637_4573d845.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/142637_3a81d67b.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/142637_20930ac2.jpg"
@@ -664,6 +677,7 @@
         },
         {
             "id": 14,
+            "region": "Asia",
             "category": "In-depth Cultural",
             "title": "Southeast Asia Discovery: Budget-friendly Adventure Tour 21-Day",
             "reviews": 19,
@@ -716,6 +730,7 @@
         },
         {
             "id": 15,
+            "region": "Asia",
             "category": "River Cruise",
             "title": "Beautiful Delta Odyssey: From Siem Reap to Hanoi 14-Day",
             "reviews": 27,
@@ -767,6 +782,7 @@
         },
         {
             "id": 16,
+            "region": "Asia",
             "category": "Active Adventure",
             "title": "The Charm of Laos in 10 Days - Private Tour",
             "reviews": 25,
@@ -793,11 +809,11 @@
             "save_price": 193140,
             "addional_price": 0,
             "off": 55,
-            "main_image": "https://cdn.tourradar.com/s3/tour/1500x800/240404_63e479264dd85.jpg",
+            "main_image": "https://cdn.tourradar.com/s3/tour/1500x800/240404_63e10e1c58397.jpg",
             "tour_id": 240404,
             "group_size": 15,
             "top_crousel_img": [
-                "https://cdn.tourradar.com/s3/tour/1500x800/240404_63e479264dd85.jpg",
+                "https://cdn.tourradar.com/s3/tour/1500x800/240404_63e10e1c58397.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/240404_63d8ea513adca.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/240404_63d8ea513adc6.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/240404_63d8ea513adc8.jpg"
@@ -818,6 +834,7 @@
         },
         {
             "id": 17,
+            "region": "Asia",
             "category": "Explorer",
             "title": "The Best of Cambodia in 10 Days - Private Tour",
             "reviews": 16,
@@ -867,6 +884,7 @@
         },
         {
             "id": 18,
+            "region": "Asia",
             "category": "Explorer",
             "title": "Essence of Bali in 10 days - Private Deluxe Tour",
             "reviews": 31,
@@ -895,11 +913,11 @@
             "save_price": 299448,
             "addional_price": 0,
             "off": 55,
-            "main_image": "https://cdn.tourradar.com/s3/tour/1500x800/240222_63e5b47dbafb4.jpg",
+            "main_image": "https://cdn.tourradar.com/s3/tour/1500x800/240222_63d7d8295b408.jpg",
             "tour_id": 240222,
             "group_size": 15,
             "top_crousel_img": [
-                "https://cdn.tourradar.com/s3/tour/1500x800/240222_63e5b47dbafb4.jpg",
+                "https://cdn.tourradar.com/s3/tour/1500x800/240222_63d7d8295b408.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/240222_63d3aa1069b40.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/240222_63d3aa1069b3a.jpg",
                 "https://cdn.tourradar.com/s3/tour/1500x800/240222_63d3aa1069b3c.jpg"
@@ -920,6 +938,7 @@
         },
         {
             "id": 19,
+            "region": "Asia",
             "category": "Hiking & Trekking",
             "title": "Nature Reserve Discovery In 12 Days - Luxury Private Tour",
             "reviews": 38,
@@ -970,6 +989,7 @@
         },
         {
             "id": 20,
+            "region": "Asia",
             "category": "Explorer",
             "title": "Highlights of Laos In 6 Days - Private Tour",
             "reviews": 46,
@@ -1022,8 +1042,9 @@
     "Europe": [
         {
             "id": 1,
+            "region": "Europe",
             "category": "Explorer",
-            "title": "Best of Greece (15 days) Athens & 4 Islands in 15 days (Self-Guided)",
+            "title": "Best of Greece (15 days) Athens & 4 Islands in 15 days",
             "reviews": 54,
             "destinations": [
                 "Athens",
@@ -1073,6 +1094,7 @@
         },
         {
             "id": 2,
+            "region": "Europe",
             "category": "Active Adventure",
             "title": "Magical Ireland",
             "reviews": 26,
@@ -1122,6 +1144,7 @@
         },
         {
             "id": 3,
+            "region": "Europe",
             "category": "Explorer",
             "title": "Epic London Discovery",
             "reviews": 59,
@@ -1174,8 +1197,9 @@
         },
         {
             "id": 4,
+            "region": "Europe",
             "category": "In-depth Cultural",
-            "title": "8 days Experience Athens & Crete (Self-guided)",
+            "title": "8 days Experience Athens & Crete",
             "reviews": 86,
             "destinations": [
                 "Athens",
@@ -1222,8 +1246,9 @@
         },
         {
             "id": 5,
+            "region": "Europe",
             "category": "River Cruise",
-            "title": "7 days - Magic Danube (Vienna - Budapest - Vienna, MS Crucestar 4*)",
+            "title": "7 days - Magic Danube (Vienna - Budapest - Vienna)",
             "reviews": 49,
             "destinations": [
                 "Austria",
@@ -1271,6 +1296,7 @@
         },
         {
             "id": 6,
+            "region": "Europe",
             "category": "Active Adventure",
             "title": "Croatia Explorer - Zagreb, Split, Korcula, Dubrovnik",
             "reviews": 33,
@@ -1320,6 +1346,7 @@
         },
         {
             "id": 7,
+            "region": "Europe",
             "category": "Explorer",
             "title": "Switzerland Short Stay",
             "reviews": 42,
@@ -1372,8 +1399,9 @@
         },
         {
             "id": 8,
+            "region": "Europe",
             "category": "In-depth Cultural",
-            "title": "Spain with Majorca (Palma) incl Madrid & Barcelona (with hot air ballooning)",
+            "title": "Spain with Majorca (Palma) incl Madrid & Barcelona",
             "reviews": 48,
             "destinations": [
                 "Madrid",
@@ -1424,6 +1452,7 @@
         },
         {
             "id": 9,
+            "region": "Europe",
             "category": "Explorer",
             "title": "Amsterdam & Paris in Luxury",
             "reviews": 62,
@@ -1476,6 +1505,7 @@
         },
         {
             "id": 10,
+            "region": "Europe",
             "category": "Explorer",
             "title": "Spain : Madrid :Seville: Granada : Barcelona : With hot air ballooning",
             "reviews": 65,
@@ -1529,6 +1559,7 @@
         },
         {
             "id": 11,
+            "region": "Europe",
             "category": "In-depth Cultural",
             "title": "Turkey Golden Triangle",
             "reviews": 36,
@@ -1582,6 +1613,7 @@
         },
         {
             "id": 12,
+            "region": "Europe",
             "category": "Active Adventure",
             "title": "Magical Finland",
             "reviews": 62,
@@ -1631,8 +1663,9 @@
         },
         {
             "id": 13,
+            "region": "Europe",
             "category": "River Cruise",
-            "title": "Prague, Dresden, and the Castles of Bohemia: A Spectacular Cruise on the Elbe and Vltava Rivers",
+            "title": "Prague, Dresden, and the Castles of Bohemia",
             "reviews": 53,
             "destinations": [
                 "Prague",
@@ -1681,6 +1714,7 @@
         },
         {
             "id": 14,
+            "region": "Europe",
             "category": "In-depth Cultural",
             "title": "Santorini to Athens",
             "reviews": 19,
@@ -1730,6 +1764,7 @@
         },
         {
             "id": 15,
+            "region": "Europe",
             "category": "River Cruise",
             "title": "Lisbon & Secrets of the Douro",
             "reviews": 35,
@@ -1782,6 +1817,7 @@
         },
         {
             "id": 16,
+            "region": "Europe",
             "category": "River Cruise",
             "title": "Nice & Sensations of Lyon and Provence",
             "reviews": 64,
@@ -1834,6 +1870,7 @@
         },
         {
             "id": 17,
+            "region": "Europe",
             "category": "In-depth Cultural",
             "title": "Explore the Best of Greece - 10 Days",
             "reviews": 24,
@@ -1887,6 +1924,7 @@
         },
         {
             "id": 18,
+            "region": "Europe",
             "category": "In-depth Cultural",
             "title": "Discovery of Sicily - 8 Days",
             "reviews": 39,
@@ -1939,6 +1977,7 @@
         },
         {
             "id": 19,
+            "region": "Europe",
             "category": "In-depth Cultural",
             "title": "Portugal Best Experience - 10 Days",
             "reviews": 38,
@@ -1992,6 +2031,7 @@
         },
         {
             "id": 20,
+            "region": "Europe",
             "category": "In-depth Cultural",
             "title": "Best of Rome, Florence & Cinque Terre - 8 Days (Small Group)",
             "reviews": 62,
@@ -2047,8 +2087,9 @@
     "Africa": [
         {
             "id": 1,
+            "region": "Africa",
             "category": "In-depth Cultural",
-            "title": "Cleopatra Honey Moon Tour 8 Days from Cairo (Cairo, Aswan, Nile Cruise, Luxor, Camel Ride, Abu Simbel",
+            "title": "Cleopatra Honey Moon Tour (Cairo, Aswan, Nile Cruise, Luxor)",
             "reviews": 45,
             "destinations": [
                 "Cairo", "Giza", "Aswan", "Abu Simbel", "Kom Ombo", "Edfu", "Luxor"
@@ -2094,8 +2135,9 @@
         },
         {
             "id": 2,
+            "region": "Africa",
             "category": "In-depth Cultural",
-            "title": "TUT Honey Moon Tour 8 Days from Cairo (Cairo, Luxor Nile Cruise, Aswan, Abu Simbel, Hot Air Balloon",
+            "title": "TUT Honey Moon Tour (Aswan, Abu Simbel, Hot Air Balloon)",
             "reviews": 308,
             "rating": 5,
             "destinations": [
@@ -2141,8 +2183,9 @@
         },
         {
             "id": 3,
+            "region": "Africa",
             "category": "In-depth Cultural",
-            "title": "Cheap Egypt holiday to Cairo-Luxor-Aswan-Abu Simbel 11 Days with sleeping train,sightseeing & tour guided",
+            "title": "Egypt holiday to Cairo-Luxor-Aswan-Abu Simbel, sightseeing",
             "reviews": 20,
             "rating": 4.5,
             "destinations": [
@@ -2188,6 +2231,7 @@
         },
         {
             "id": 4,
+            "region": "Africa",
             "category": "Explorer",
             "title": "9 Days Nile Jewel (Cairo, Nile Cruise, Hurghada)",
             "reviews": 36,
@@ -2238,6 +2282,7 @@
         },
         {
             "id": 5,
+            "region": "Africa",
             "category": "Explorer",
             "title": "Nile Jewel - 5* Cruise",
             "reviews": 46,
@@ -2285,6 +2330,7 @@
         },
         {
             "id": 6,
+            "region": "Africa",
             "category": "Explorer",
             "title": "8 Days Nile Jewel, Cairo & Nile Cruise",
             "reviews": 12,
@@ -2332,6 +2378,7 @@
         },
         {
             "id": 7,
+            "region": "Africa",
             "category": "In-depth Cultural",
             "title": "15 Day Highlights of Morocco and Egypt",
             "reviews": 22,
@@ -2379,6 +2426,7 @@
         },
         {
             "id": 8,
+            "region": "Africa",
             "category": "In-depth Cultural",
             "title": "Around Morocco Tour (Guided tour)",
             "reviews": 11,
@@ -2426,6 +2474,7 @@
         },
         {
             "id": 9,
+            "region": "Africa",
             "category": "Hiking & Trekking",
             "title": "Kilimanjaro climbing machame route 7 days",
             "reviews": 246,
@@ -2473,6 +2522,7 @@
         },
         {
             "id": 10,
+            "region": "Africa",
             "category": "In-depth Cultural",
             "title": "12-Day Egypt & Morocco tour",
             "reviews": 16,
@@ -2520,6 +2570,7 @@
         },
         {
             "id": 11,
+            "region": "Africa",
             "category": "In-depth Cultural",
             "title": "Luxury 14 Days Treasure of Egypt Tour",
             "reviews": 36,
@@ -2567,6 +2618,7 @@
         },
         {
             "id": 12,
+            "region": "Africa",
             "category": "In-depth Cultural",
             "title": "Luxury 10 days Egypt tour and Red Sea extension",
             "reviews": 17,
@@ -2614,6 +2666,7 @@
         },
         {
             "id": 13,
+            "region": "Africa",
             "category": "Explorer",
             "title": "Highlights of Morocco Tour from Marrakech",
             "reviews": 46,
@@ -2664,8 +2717,9 @@
         },
         {
             "id": 14,
+            "region": "Africa",
             "category": "Safari",
-            "title": "Serengeti, Ngorongoro, Tarangire (with Materuni waterfalls, coffee tour) - 6 Days",
+            "title": "Serengeti, Ngorongoro, Tarangire (with Materuni waterfalls)",
             "reviews": 19,
             "rating": 4.8,
             "destinations": [
@@ -2711,6 +2765,7 @@
         },
         {
             "id": 15,
+            "region": "Africa",
             "category": "In-depth Cultural",
             "title": "Educational Tour of Ghana - 10 Days",
             "reviews": 27,
@@ -2758,6 +2813,7 @@
         },
         {
             "id": 16,
+            "region": "Africa",
             "category": "Active Adventure",
             "title": "Morocco Tours 10 Days Tour From Casablanca",
             "reviews": 25,
@@ -2805,6 +2861,7 @@
         },
         {
             "id": 17,
+            "region": "Africa",
             "category": "Explorer",
             "title": "Best of Morocco Discovery Tour from Marrakech",
             "reviews": 16,
@@ -2852,8 +2909,9 @@
         },
         {
             "id": 18,
+            "region": "Africa",
             "category": "In-depth Cultural",
-            "title": "Discover Egypt, Pyramids & Nile cruise Included Internal Flights [ 7 days ]",
+            "title": "Discover Egypt, Pyramids & Nile cruise Included Internal Flights",
             "reviews": 31,
             "rating": 5,
             "destinations": [
@@ -2899,6 +2957,7 @@
         },
         {
             "id": 19,
+            "region": "Africa",
             "category": "Active Adventure",
             "title": "5 day trip: Sahara Fun Outdoor Experience",
             "reviews": 38,
@@ -2946,6 +3005,7 @@
         },
         {
             "id": 20,
+            "region": "Africa",
             "category": "River Cruise",
             "title": "Adventures on the Nile",
             "reviews": 46,
@@ -2996,8 +3056,9 @@
     "Latin_America": [
         {
             "id": 1,
+            "region": "Latin America",
             "category": "Active Adventure",
-            "title": "10 DAY PERU EXPRESS - Lima, Ica, Machu Picchu, Cusco & Puno w/dom flights101",
+            "title": "PERU EXPRESS - Lima, Ica, Machu Picchu, Cusco & Puno",
             "reviews": 101,
             "destinations": [
                 "Lima",
@@ -3050,6 +3111,7 @@
         {
             "id": 2,
             "category": "Explorer",
+            "region": "Latin America",
             "title": "Southern Treasures - 8 Days",
             "reviews": 98,
             "destinations": [
@@ -3099,6 +3161,7 @@
         },
         {
             "id": 3,
+            "region": "Latin America",
             "category": "In-depth Cultural",
             "title": "Best of Argentina, Uruguay & Brazil",
             "reviews": 46,
@@ -3148,6 +3211,7 @@
         },
         {
             "id": 4,
+            "region": "Latin America",
             "category": "Active Adventure",
             "title": "Premium Inca Jungle Trek to Machu Picchu 4D/3N",
             "reviews": 46,
@@ -3199,6 +3263,7 @@
         },
         {
             "id": 5,
+            "region": "Latin America",
             "category": "In-depth Cultural",
             "title": "07 Day Sacred valley, short Inca trail & Rainbow Mountain",
             "reviews": 56,
@@ -3249,6 +3314,7 @@
         },
         {
             "id": 6,
+            "region": "Latin America",
             "category": "Active Adventure",
             "title": "06 Day Essential Cusco The Andean Jewels",
             "reviews": 21,
@@ -3300,6 +3366,7 @@
         },
         {
             "id": 7,
+            "region": "Latin America",
             "category": "Explorer",
             "title": "Lima to La Paz: Sandboarding & Sunsets",
             "reviews": 46,
@@ -3352,6 +3419,7 @@
         },
         {
             "id": 8,
+            "region": "Latin America",
             "category": "In-depth Cultural",
             "title": "Bolivia Discovery",
             "reviews": 14,
@@ -3403,6 +3471,7 @@
         },
         {
             "id": 9,
+            "region": "Latin America",
             "category": "Explorer",
             "title": "Gorgeous Guatemala",
             "reviews": 52,
@@ -3452,6 +3521,7 @@
         },
         {
             "id": 10,
+            "region": "Latin America",
             "category": "In-depth Cultural",
             "title": "Mexico Unplugged",
             "reviews": 99,
@@ -3504,6 +3574,7 @@
         },
         {
             "id": 11,
+            "region": "Latin America",
             "category": "Active Adventure",
             "title": "Best of Galapagos",
             "reviews": 36,
@@ -3554,6 +3625,7 @@
         },
         {
             "id": 12,
+            "region": "Latin America",
             "category": "In-depth Cultural",
             "title": "Real Bolivia & Argentina",
             "reviews": 57,
@@ -3603,6 +3675,7 @@
         },
         {
             "id": 13,
+            "region": "Latin America",
             "category": "In-depth Cultural",
             "title": "Iguassu & Beyond",
             "reviews": 53,
@@ -3654,6 +3727,7 @@
         },
         {
             "id": 14,
+            "region": "Latin America",
             "category": "Explorer",
             "title": "Real Colombia",
             "reviews": 46,
@@ -3706,6 +3780,7 @@
         },
         {
             "id": 15,
+            "region": "Latin America",
             "category": "In-depth Cultural",
             "title": "Mini Wonders of the Maya",
             "reviews": 66,
@@ -3758,6 +3833,7 @@
         },
         {
             "id": 16,
+            "region": "Latin America",
             "category": "River Cruise",
             "title": "Monserrat Galapagos Cruise - Discover Central",
             "reviews": 86,
@@ -3808,6 +3884,7 @@
         },
         {
             "id": 17,
+            "region": "Latin America",
             "category": "Explorer",
             "title": "Galapagos Family Holiday",
             "reviews": 64,
@@ -3857,6 +3934,7 @@
         },
         {
             "id": 18,
+            "region": "Latin America",
             "category": "In-depth Cultural",
             "title": "Lima to Rio: Coast to Coast",
             "reviews": 96,
@@ -3909,6 +3987,7 @@
         },
         {
             "id": 19,
+            "region": "Latin America",
             "category": "Active Adventure",
             "title": "Andes, Iguassu & Beyond",
             "reviews": 39,
@@ -3958,6 +4037,7 @@
         },
         {
             "id": 20,
+            "region": "Latin America",
             "category": "Active Adventure",
             "title": "Natural Highlights of Costa Rica National Geographic Journeys",
             "reviews": 18,
